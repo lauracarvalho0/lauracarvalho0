@@ -4,17 +4,19 @@ Sou **graduanda em Engenharia de Software** na PUC Campinas, com formação téc
 transformar aprendizado em prática. 
 
 ### Sobre mim 
-  - 🎓 Técnica em TI integrada ao Ensino Médio
+  - 🎓 Técnica em TI integrada ao Ensino Médio no UNASP-HT
   - 📚 Graduanda em **Engenharia de Software** PUC Campinas
   - 🔎 Interesse em **desenvolvimento de aplicativos e soluções web**
   
 ---
 
 ### Tecnologias e Linguagens 
-![html, css, js](https://skillicons.dev/icons?i=html,css,js) ![PHP](https://skillicons.dev/icons?i=python,c)
+![html, css, js](https://skillicons.dev/icons?i=html,css,js) 
+![PHP](https://skillicons.dev/icons?i=python,c,cs,php)
 
 ### Ferramentas de Desenvolvimento 
-![Git](https://skillicons.dev/icons?i=github,vscode,figma) ![Mysql](https://skillicons.dev/icons?i=mysql) 
+![Git](https://skillicons.dev/icons?i=github,visualstudio,vscode,figma) 
+![Mysql](https://skillicons.dev/icons?i=mysql,unity,arduino) 
 
 --- 
 
