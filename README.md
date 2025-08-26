@@ -12,11 +12,11 @@ transformar aprendizado em prática.
 
 ### Tecnologias e Linguagens 
 ![html, css, js](https://skillicons.dev/icons?i=html,css,js) 
-![PHP](https://skillicons.dev/icons?i=python,c,cs,php)
+![PHP](https://skillicons.dev/icons?i=python,c,cs,php,dart)
 
 ### Ferramentas de Desenvolvimento 
 ![Git](https://skillicons.dev/icons?i=github,visualstudio,vscode,figma) 
-![Mysql](https://skillicons.dev/icons?i=mysql,unity,arduino) 
+![Mysql](https://skillicons.dev/icons?i=mysql,unity,arduino,flutter) 
 
 --- 
 
