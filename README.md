@@ -1,10 +1,10 @@
 ## Olá, eu sou a Laura! 
 
-Sou **graduanda em Engenharia de Software** na PUC Campinas, com formação técnica em **TI integrada ao Ensino Médio**. Tenho paixão por tecnologia, desenvolvimento de sistemas e por 
+Sou **graduanda em Engenharia de Software** na PUC Campinas, com formação técnica em **informática integrada ao Ensino Médio**. Tenho paixão por tecnologia, desenvolvimento de sistemas e por 
 transformar aprendizado em prática. 
 
 ### Sobre mim 
-  - 🎓 Técnica em TI integrada ao Ensino Médio no UNASP-HT
+  - 🎓 Técnica em informática integrada ao Ensino Médio no UNASP-HT
   - 📚 Graduanda em **Engenharia de Software** PUC Campinas
   - 🔎 Interesse em **desenvolvimento de aplicativos e soluções web**
   
