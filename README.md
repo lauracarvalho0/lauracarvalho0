@@ -16,7 +16,7 @@ transformar aprendizado em prática.
 
 ### Ferramentas de Desenvolvimento 
 ![Git](https://skillicons.dev/icons?i=github,visualstudio,vscode,figma) 
-![Mysql](https://skillicons.dev/icons?i=mysql,unity,arduino,flutter) 
+![Mysql](https://skillicons.dev/icons?i=mysql,unity,arduino,flutter,nodejs,typescript) 
 
 --- 
 
