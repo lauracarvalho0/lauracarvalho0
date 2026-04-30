@@ -10,7 +10,7 @@ Sou graduanda no terceiro semestre de **Engenharia de Software** na PUC Campinas
 ---
 
 ### Tecnologias e Linguagens 
-![html, css, js](https://skillicons.dev/icons?i=html,css,js) 
+![html, css, js](https://skillicons.dev/icons?i=html,css,js,node) 
 ![PHP](https://skillicons.dev/icons?i=python,c,cs,php,dart)
 
 ### Ferramentas de Desenvolvimento 
