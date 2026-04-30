@@ -1,7 +1,6 @@
 ## Olá, eu sou a Laura! 
 
-Sou graduanda no terceiro semestre de **Engenharia de Software** na PUC Campinas, com formação **técnica em informática integrada ao Ensino Médio**. Tenho paixão por tecnologia, desenvolvimento de sistemas e por 
-transformar aprendizado em prática. 
+Sou graduanda no terceiro semestre de **Engenharia de Software** na PUC Campinas, com formação **técnica em informática integrada ao Ensino Médio**. Gosto da área da tecnologia, desenvolvimento de sistemas e transformar aprendizado em prática. 
 
 ### Sobre mim 
   - 🎓 Técnica em informática integrada ao Ensino Médio no UNASP-HT
