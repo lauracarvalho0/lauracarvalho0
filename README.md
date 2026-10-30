@@ -15,7 +15,7 @@ Sou graduanda no quarto semestre de **Engenharia de Software** na PUC Campinas, 
 
 ### Ferramentas de Desenvolvimento 
 ![Git](https://skillicons.dev/icons?i=github,visualstudio,vscode,figma) 
-![Mysql](https://skillicons.dev/icons?i=mysql,unity,arduino,flutter,nodejs,typescript,oracle,mongodb) 
+![Mysql](https://skillicons.dev/icons?i=mysql,unity,arduino,flutter,nodejs,typescript,firebase,mongodb) 
 
 --- 
 
